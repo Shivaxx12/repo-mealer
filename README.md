@@ -66,3 +66,5 @@ cooking skill levels.
  Users can explore new recipes, save their favorites for future reference, and discover culinary
 inspiration to keep their meal plans exciting and diverse. Conclusion: Meal Planner Pro is more than just a meal planning tool; it’s a holistic solution for individuals seeking to adopt healthier eating habits and take control of their nutrition. With its user-centric approach, customizable features, and emphasis on nutrition and variety, Meal Planner Pro empowers users to make informed decisions about their diet while simplifying the meal planning process. Whether you’re
 following a specific diet, managing dietary restrictions, or simply looking for inspiration in the kitchen, Meal Planner Pro is your trusted companion on the journey to better health and well-being.
+
+Please find the <a href = "https://arimai.github.io/meal-planner/#/">Demo here</a>
